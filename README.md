@@ -28,6 +28,9 @@
 ### Как скачать?
 Команда для скачивания git-репозитория в терминале: `git clone https://github.com/appledix/23_typograf.git`
 
+## Установка зависимостей
+В терминале: `pip3 install -r requirements.txt`
+
 # Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
